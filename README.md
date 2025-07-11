@@ -1,1 +1,2 @@
 # macedog
+Sistema interno.
