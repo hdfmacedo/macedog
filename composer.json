@@ -1,0 +1,17 @@
+{
+    "name": "macedog/app",
+    "description": "Sistema interno",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Developer",
+            "email": "dev@example.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require": {}
+}
